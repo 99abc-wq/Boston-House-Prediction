@@ -2,3 +2,4 @@ Flask
 Sklearn 
 Numpy
 Matplotlib
+Pandas
